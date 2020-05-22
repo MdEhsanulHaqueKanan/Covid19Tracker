@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6af5eaa1-0036-4580-bee3-310b02e98652" name="Default Changelist" comment="" />
+    <list default="true" id="6af5eaa1-0036-4580-bee3-310b02e98652" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/Chart/Chart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chart/Chart.jsx" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Chart/Chart.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="54" column="40" lean-forward="true" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+            <state relative-caret-position="226">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -131,8 +133,8 @@
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/components/Chart/Chart.module.css" />
         <option value="$PROJECT_DIR$/src/components/CountryPicker/CountryPicker.jsx" />
-        <option value="$PROJECT_DIR$/src/components/Chart/Chart.jsx" />
         <option value="$PROJECT_DIR$/src/components/Cards/Cards.module.css" />
+        <option value="$PROJECT_DIR$/src/components/Chart/Chart.jsx" />
       </list>
     </option>
   </component>
@@ -252,12 +254,12 @@
       <workItem from="1589434348394" duration="8057000" />
       <workItem from="1589526195552" duration="3676000" />
       <workItem from="1590130247199" duration="281000" />
-      <workItem from="1590164670577" duration="1950000" />
+      <workItem from="1590164670577" duration="2557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44715000" />
+    <option name="totallyTimeSpent" value="45322000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -383,8 +385,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Chart/Chart.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="54" column="40" lean-forward="true" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+        <state relative-caret-position="226">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
