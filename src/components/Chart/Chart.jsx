@@ -69,5 +69,4 @@ const Chart = ({ data: { confirmed, recovered, deaths }, country }) => {
     );
 };
 
-
 export default Chart;
